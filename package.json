@@ -1,0 +1,22 @@
+{
+  "name": "unique-words",
+  "version": "1.0.0",
+  "description": "It returns unique words from text",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thibaultboursier/unique-words.git"
+  },
+  "author": "Thibault Boursier",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thibaultboursier/unique-words/issues"
+  },
+  "homepage": "https://github.com/thibaultboursier/unique-words#readme",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
