@@ -1,6 +1,6 @@
 {
-  "name": "unique-words",
-  "version": "1.0.0",
+  "name": "unique-words-count",
+  "version": "0.1.0",
   "description": "It returns unique words from text",
   "main": "index.js",
   "scripts": {
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/thibaultboursier/unique-words.git"
+    "url": "git+https://github.com/thibaultboursier/unique-words-count.git"
   },
   "author": "Thibault Boursier",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/thibaultboursier/unique-words/issues"
+    "url": "https://github.com/thibaultboursier/unique-words-count/issues"
   },
-  "homepage": "https://github.com/thibaultboursier/unique-words#readme",
+  "homepage": "https://github.com/thibaultboursier/unique-words-count#readme",
   "devDependencies": {
     "jest": "^23.6.0"
   }
