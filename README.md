@@ -1,4 +1,4 @@
-# unique-words-count [![NPM version](https://img.shields.io/npm/v/unique-words-count.svg?style=flat)](https://www.npmjs.com/package/unique-words-count) [![NPM downloads](https://img.shields.io/npm/dm/unique-words-count.svg?style=flat)](https://npmjs.org/package/unique-words-count) 
+# unique-words-count [![NPM version](https://img.shields.io/npm/v/unique-words-count.svg?style=flat)](https://www.npmjs.com/package/unique-words-count) [![NPM downloads](https://img.shields.io/npm/dm/unique-words-count.svg?style=flat)](https://npmjs.org/package/unique-words-count) [![Linux Build Status](https://img.shields.io/travis/thibaultboursier/unique-words-count.svg?style=flat&label=Travis)](https://travis-ci.org/thibaultboursier/unique-words-count)
 It returns unique words from a text.
 
 ## Install
