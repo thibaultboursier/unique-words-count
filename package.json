@@ -1,7 +1,7 @@
 {
   "name": "unique-words-count",
   "version": "0.1.0",
-  "description": "It returns unique words from text",
+  "description": "It returns unique words count from text",
   "main": "index.js",
   "scripts": {
     "test": "jest"
