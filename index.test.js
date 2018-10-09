@@ -1,34 +1,34 @@
 const SUT = require('./index');
 
-test('It should return 3 unique words', () => {
+test('It should return 3 unique words count', () => {
     // Given
     const text = 'Hello my dear';
 
     // When
-    const uniqueWords = SUT(text);
+    const uniqueWordsCount = SUT(text);
 
     // Then
-    expect(uniqueWords).toBe(3);
+    expect(uniqueWordsCount).toBe(3);
 });
 
-test('It should return 4 unique words in spite of the comma and the points of suspension', () => {
+test('It should return 4 unique words count in spite of the comma and the points of suspension', () => {
     // Given
     const text = 'I love swimming, swimming and swimming...';
 
     // When
-    const uniqueWords = SUT(text);
+    const uniqueWordsCount = SUT(text);
 
     // Then
-    expect(uniqueWords).toBe(4);
+    expect(uniqueWordsCount).toBe(4);
 });
 
-test('It should return 4 unique words in spite of the question mark', () => {
+test('It should return 4 unique words count in spite of the question mark', () => {
     // Given
     const text = 'Do you think that my house is bigger than your house?';
 
     // When
-    const uniqueWords = SUT(text);
+    const uniqueWordsCount = SUT(text);
 
     // Then
-    expect(uniqueWords).toBe(10);
+    expect(uniqueWordsCount).toBe(10);
 });
